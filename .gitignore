@@ -1,6 +1,7 @@
 # Compiler files
 cache/
 out/
+artifacts/
 
 # Ignores development broadcast logs
 !/broadcast
@@ -12,6 +13,8 @@ docs/
 
 # Node modules
 node_modules/
+
+RWA_README.md
 
 # Dotenv file
 .env
